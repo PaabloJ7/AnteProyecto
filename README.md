@@ -15,10 +15,11 @@ La finalidad de VitalizeMe es proporcionar a los usuarios una plataforma central
 
 ## Objetivos
 1. Permitir a los usuarios registrar fácilmente alimentos consumidos, actividades físicas y otros detalles relevantes.
-2. Proporcionar un resumen diario de calorías ingeridas y quemadas, junto con gráficos visuales para un análisis fácil.
-3. Ofrecer a los usuarios sugerencias personalizadas sobre su ingesta calórica basadas en sus objetivos de salud.
-4. Crear una plataforma interactiva que motive a los usuarios a alcanzar y mantener sus metas de salud.
-5. Fomentar la conciencia sobre hábitos nutricionales y de ejercicio saludables mediante consejos y recomendaciones.
+2. Los usuarios tendran la posiblidad de añadir nuevos productos y sus datos nutricionales.
+3. Proporcionar un resumen diario de calorías ingeridas y quemadas, junto con gráficos visuales para un análisis fácil.
+4. Ofrecer a los usuarios sugerencias personalizadas sobre su ingesta calórica basadas en sus objetivos de salud.
+5. Crear una plataforma interactiva que motive a los usuarios a alcanzar y mantener sus metas de salud.
+6. Fomentar la conciencia sobre hábitos nutricionales y de ejercicio saludables mediante consejos y recomendaciones.
 
 ## Medios Hardware y Software a Utilizar
 - **Software:**
