@@ -58,5 +58,5 @@ Nota: Las herramientas puede variar durante el desarollo del proyecto
    - Pruebas unitarias y de integración.
    - Pruebas de usabilidad.
 
-El proyecto esta previsto para realizarse en 40 horas.
-Nota: Las horas mencionadas son estimadas y pueden variar según se va desarrollando el proyecto, problemas tecnicos y otros factores imprevistos.
+- El proyecto esta previsto para realizarse en 40 horas.
+**Nota:** Las horas mencionadas son estimadas y pueden variar según se va desarrollando el proyecto, problemas tecnicos y otros factores imprevistos.
