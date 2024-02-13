@@ -28,7 +28,7 @@ La finalidad de VitalizeMe es proporcionar a los usuarios una plataforma central
   - Base de datos: MySQL
   - Despliegue: AWS EC2
 
- - **Herramientas adicionales:**
+- **Herramientas adicionales:**
   - Git para el control de versiones
   - Vscode como entorno de desarollo
   - Xampp para el uso de phpmyadmin
