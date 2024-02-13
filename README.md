@@ -4,7 +4,7 @@
 1. [Introducción del Proyecto](#introducción-del-proyecto)
 2. [Finalidad](#finalidad)
 3. [Objetivos](#objetivos)
-4. [Medios Hardware y Software a Utilizar](#medios-hardware-y-software-a-utilizar)
+4. [Software a Utilizar](#medios-hardware-y-software-a-utilizar)
 5. [Planificación](#planificación)
 
 ## Introducción del Proyecto
