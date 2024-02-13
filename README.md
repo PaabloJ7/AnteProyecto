@@ -25,26 +25,29 @@ La finalidad de VitalizeMe es proporcionar a los usuarios una plataforma central
   - Git para el control de versiones
   - Vscode como entorno de desarollo
   - Xampp para el uso de phpmyadmin
+
+Nota: Las herramientas puede variar durante el desarollo del proyecto
     
 ## Planificación
 
 1. **Investigacion del mercado: 5 horas**
    - Analisis de otras paginas con funcionalidades y finalidades similares.
 
-2. **Diseño y Arquitectura: 7 horas**
+2. **Diseño y Arquitectura: 8 horas**
+   - Arquitectura de la página web
    - Creación de esquemas de la base de datos.
    - Diseño de la interfaz de usuario y experiencia de usuario.
 
-3. **Desarrollo: 15 horas**
+4. **Desarrollo: 15 horas**
    - Implementación del frontend y backend.
    - Integración de la base de datos.
    - Implementación de la lógica de negocio y la funcionalidad principal.
   
-4. **Despliegue: 5 horas**
+5. **Despliegue: 5 horas**
    - Implementación en un entorno de producción.
    - Configuración de seguridad y optimización del rendimiento.
 
-5. **Pruebas: 6 horas**
+6. **Pruebas: 6 horas**
    - Pruebas unitarias y de integración.
    - Pruebas de usabilidad.
 
