@@ -50,7 +50,7 @@ Nota: Las herramientas puede variar durante el desarollo del proyecto
    - Implementación de la lógica de negocio y la funcionalidad principal.
   
 5. **Despliegue: 4 horas**
-   - Implementación en un entorno de producción.
+   - Despliegue con AWS EC2
    - Configuración de seguridad y optimización del rendimiento.
 
 6. **Pruebas: 6 horas**
