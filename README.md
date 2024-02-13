@@ -16,10 +16,14 @@ La finalidad de CaloTracker es proporcionar a los usuarios una plataforma centra
 
 ## Medios Hardware y Software a Utilizar
 - **Software:**
-  - Frontend: HTML, CSS, JavaScript y BootStrap
-  - Backend: Java
-  - Base de datos: MYysQL para almacenar información del usuario.
+  - Frontend: React, BootStrap y css
+  - Backend: Symfony (PHP)
+  - Base de datos: MYysQL 
 
+ - **Herramientas adicionales:**
+  - Git para el control de versiones
+  - Vscode como entorno de desarollo
+    
 ## Planificación
 1. **Definición del Alcance:**
    - Especificación detallada de características y funcionalidades.
@@ -42,10 +46,12 @@ La finalidad de CaloTracker es proporcionar a los usuarios una plataforma centra
    - Implementación en un entorno de producción.
    - Configuración de seguridad y optimización del rendimiento.
 
-## Tiempo Estimado
-El desarrollo completo se estima en 40 horas:
-- Diseño y Arquitectura:
-- Desarrollo: 
-- Pruebas: 
-- Despliegue: 
+## Planificacion
+El desarrollo completo se estima en 64 horas:
+- Investigacion del mercado: 5 horas
+- Diseño Front-end
+- Desarrollo back-end y arquitectura base de datos:
+- Despliegue: 4 horas
+- Pruebas: 5 horas
+
 - Lanzamiento y Evaluación Continua:
