@@ -1,8 +1,8 @@
-# Sistema de Seguimiento de Calorías y Actividades: CaloTracker
+# Sistema de Seguimiento de Calorías y Actividades: VitalizeMe
 ## Pablo de la Sierra Alcocer
 
 ## Introducción del Proyecto
-El proyecto tiene como objetivo desarrollar una aplicación web llamada "CaloTracker" que permitirá a los usuarios realizar un seguimiento diario de las calorías ingeridas y quemadas, así como registrar sus actividades físicas y alimentos consumidos. La aplicación se centrará en proporcionar una herramienta fácil de usar para mejorar la conciencia sobre la salud y fomentar hábitos nutricionales y de ejercicio saludables.
+El proyecto tiene como objetivo desarrollar una aplicación web llamada "VitalizeMe" que permitirá a los usuarios realizar un seguimiento diario de las calorías ingeridas y quemadas, así como registrar sus actividades físicas y alimentos consumidos. La aplicación se centrará en proporcionar una herramienta fácil de usar para mejorar la conciencia sobre la salud y fomentar hábitos nutricionales y de ejercicio saludables.
 
 ## Finalidad
 La finalidad de CaloTracker es proporcionar a los usuarios una plataforma centralizada para gestionar su ingesta calórica diaria y sus actividades físicas. Esto permitirá a los usuarios tomar decisiones informadas sobre su salud, establecer metas personalizadas y realizar un seguimiento de su progreso a lo largo del tiempo.
