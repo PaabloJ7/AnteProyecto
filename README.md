@@ -44,12 +44,12 @@ Nota: Las herramientas puede variar durante el desarollo del proyecto
    - Creación de esquemas de la base de datos.
    - Diseño de la interfaz de usuario y experiencia de usuario.
 
-4. **Desarrollo: 16 horas**
+4. **Desarrollo: 17 horas**
    - Implementación del frontend y backend.
    - Integración de la base de datos.
    - Implementación de la lógica de negocio y la funcionalidad principal.
   
-5. **Despliegue: 5 horas**
+5. **Despliegue: 4 horas**
    - Implementación en un entorno de producción.
    - Configuración de seguridad y optimización del rendimiento.
 
