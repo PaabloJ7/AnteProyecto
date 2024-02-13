@@ -5,7 +5,7 @@
 El proyecto tiene como objetivo desarrollar una aplicación web llamada "VitalizeMe" que permitirá a los usuarios realizar un seguimiento diario de las calorías ingeridas y quemadas, así como registrar sus actividades físicas y alimentos consumidos. La aplicación se centrará en proporcionar una herramienta fácil de usar para mejorar la conciencia sobre la salud y fomentar hábitos nutricionales y de ejercicio saludables.
 
 ## Finalidad
-La finalidad de CaloTracker es proporcionar a los usuarios una plataforma centralizada para gestionar su ingesta calórica diaria y sus actividades físicas. Esto permitirá a los usuarios tomar decisiones informadas sobre su salud, establecer metas personalizadas y realizar un seguimiento de su progreso a lo largo del tiempo.
+La finalidad de VitalizeMe es proporcionar a los usuarios una plataforma centralizada para gestionar su ingesta calórica diaria y sus actividades físicas. Esto permitirá a los usuarios tomar decisiones informadas sobre su salud, establecer metas personalizadas y realizar un seguimiento de su progreso a lo largo del tiempo.
 
 ## Objetivos
 1. Permitir a los usuarios registrar fácilmente alimentos consumidos, actividades físicas y otros detalles relevantes.
@@ -16,42 +16,36 @@ La finalidad de CaloTracker es proporcionar a los usuarios una plataforma centra
 
 ## Medios Hardware y Software a Utilizar
 - **Software:**
-  - Frontend: React, BootStrap y css
+  - Frontend: React, BootStrap y CSS
   - Backend: Symfony (PHP)
-  - Base de datos: MYysQL 
+  - Base de datos: MySQL
+  - AWS EC2 para el despliegue la página
 
  - **Herramientas adicionales:**
   - Git para el control de versiones
   - Vscode como entorno de desarollo
+  - Xampp para el uso de phpmyadmin
     
 ## Planificación
-1. **Definición del Alcance:**
-   - Especificación detallada de características y funcionalidades.
-   - Establecimiento de los objetivos específicos.
 
-2. **Diseño y Arquitectura:**
+1. **Investigacion del mercado: 5 horas**
+   - Analisis de otras paginas con funcionalidades y finalidades similares.
+
+2. **Diseño y Arquitectura: 7 horas**
    - Creación de esquemas de la base de datos.
    - Diseño de la interfaz de usuario y experiencia de usuario.
 
-3. **Desarrollo:**
+3. **Desarrollo: 15 horas**
    - Implementación del frontend y backend.
    - Integración de la base de datos.
    - Implementación de la lógica de negocio y la funcionalidad principal.
-
-4. **Pruebas:**
-   - Pruebas unitarias y de integración.
-   - Pruebas de usabilidad.
-
-5. **Despliegue:**
+  
+4. **Despliegue: 5 horas**
    - Implementación en un entorno de producción.
    - Configuración de seguridad y optimización del rendimiento.
 
-## Planificacion
-El desarrollo completo se estima en 64 horas:
-- Investigacion del mercado: 5 horas
-- Diseño Front-end
-- Desarrollo back-end y arquitectura base de datos:
-- Despliegue: 4 horas
-- Pruebas: 5 horas
+5. **Pruebas: 6 horas**
+   - Pruebas unitarias y de integración.
+   - Pruebas de usabilidad.
 
-- Lanzamiento y Evaluación Continua:
+Nota: Las horas mencionadas son estimadas y pueden variar según se va desarrollando el proyecto, problemas tecnicos y otros factores imprevistos.
